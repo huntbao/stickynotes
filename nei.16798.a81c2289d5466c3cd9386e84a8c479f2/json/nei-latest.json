@@ -1,0 +1,762 @@
+{
+	"datatypes": [
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 9999,
+			"tag": "系统类型",
+			"tagPinyin": "xi'tong'lei'xing",
+			"type": 1,
+			"name": "File",
+			"format": 6,
+			"description": "文件类型",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1473163531384,
+			"params": [],
+			"watchList": [],
+			"isWatched": 0
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10000,
+			"tag": "系统类型",
+			"tagPinyin": "xi'tong'lei'xing",
+			"type": 1,
+			"name": "Variable",
+			"format": 0,
+			"description": "可变类型",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1473163531384,
+			"params": [],
+			"watchList": [],
+			"isWatched": 0
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10001,
+			"tag": "系统类型",
+			"tagPinyin": "xi'tong'lei'xing",
+			"type": 1,
+			"name": "String",
+			"format": 3,
+			"description": "字符串",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1473163531384,
+			"params": [],
+			"watchList": [],
+			"isWatched": 0
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10002,
+			"tag": "系统类型",
+			"tagPinyin": "xi'tong'lei'xing",
+			"type": 1,
+			"name": "Number",
+			"format": 4,
+			"description": "数值",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1473163531384,
+			"params": [],
+			"watchList": [],
+			"isWatched": 0
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10003,
+			"tag": "系统类型",
+			"tagPinyin": "xi'tong'lei'xing",
+			"type": 1,
+			"name": "Boolean",
+			"format": 5,
+			"description": "布尔",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1473163531384,
+			"params": [],
+			"watchList": [],
+			"isWatched": 0
+		}
+	],
+	"cliargs": [],
+	"groups": [
+		{
+			"respo": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"creator": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"id": 18210,
+			"type": 1,
+			"name": "默认分组",
+			"namePinyin": "mo'ren'fen'zu",
+			"description": "",
+			"respoId": 11567,
+			"projectId": 16798,
+			"progroupId": 15168,
+			"creatorId": 11567,
+			"createTime": 1497190768316
+		}
+	],
+	"constraints": [
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10019,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "id",
+			"apply": 0,
+			"function": "",
+			"description": "生成唯一标识",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10020,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "str",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机字符串",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10021,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "chinese",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机中文字符串",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10022,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "email",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机邮箱地址",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10023,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "url",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机URL地址",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10024,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "num",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机数字",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10025,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "bool",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机布尔值",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10026,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "var",
+			"apply": 0,
+			"function": "",
+			"description": "生成随机类型的值",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10027,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "repeat",
+			"apply": 0,
+			"function": "",
+			"description": "生成指定元素个数的数组",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476100880184
+		},
+		{
+			"creator": {
+				"id": 10000,
+				"portrait": "",
+				"realname": "系统管理员",
+				"realnamePinyin": "xi'tong'guan'li'yuan"
+			},
+			"group": {
+				"id": 9999,
+				"name": "系统业务分组",
+				"namePinyin": "xi'tong'ye'wu'fen'zu",
+				"description": "系统内置业务分组",
+				"respoId": 10000,
+				"projectId": 10000,
+				"creatorId": 10000
+			},
+			"id": 10031,
+			"tag": "系统预置",
+			"tagPinyin": "",
+			"type": 1,
+			"name": "loop",
+			"apply": 0,
+			"function": "",
+			"description": "生成指定层数的数据",
+			"groupId": 9999,
+			"projectId": 10000,
+			"progroupId": 10000,
+			"creatorId": 10000,
+			"createTime": 1476879301415
+		}
+	],
+	"interfaces": [],
+	"templates": [
+		{
+			"respo": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"creator": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"group": {
+				"id": 18210,
+				"name": "默认分组",
+				"namePinyin": "mo'ren'fen'zu",
+				"description": "",
+				"respoId": 11567,
+				"projectId": 16798,
+				"creatorId": 11567
+			},
+			"id": 13390,
+			"tag": "",
+			"tagPinyin": "",
+			"path": "/index",
+			"name": "首页模板",
+			"namePinyin": "shou'ye'mo'ban",
+			"status": "已完成",
+			"description": "首页",
+			"respoId": 11567,
+			"groupId": 18210,
+			"projectId": 16798,
+			"progroupId": 15168,
+			"creatorId": 11567,
+			"createTime": 1497190894431,
+			"params": []
+		}
+	],
+	"pages": [
+		{
+			"respo": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"creator": {
+				"id": 11567,
+				"portrait": "",
+				"realname": "包勇明",
+				"realnamePinyin": ""
+			},
+			"group": {
+				"id": 18210,
+				"name": "默认分组",
+				"namePinyin": "mo'ren'fen'zu",
+				"description": "",
+				"respoId": 11567,
+				"projectId": 16798,
+				"creatorId": 11567
+			},
+			"id": 13658,
+			"tag": "",
+			"tagPinyin": "",
+			"type": 0,
+			"path": "/index",
+			"name": "index",
+			"namePinyin": "index",
+			"description": "首页",
+			"className": "",
+			"respoId": 11567,
+			"groupId": 18210,
+			"projectId": 16798,
+			"progroupId": 15168,
+			"creatorId": 11567,
+			"createTime": 1497190927927,
+			"params": [],
+			"interfaces": [],
+			"templates": [
+				{
+					"respo": {
+						"id": 11567,
+						"portrait": "",
+						"realname": "包勇明",
+						"realnamePinyin": ""
+					},
+					"creator": {
+						"id": 11567,
+						"portrait": "",
+						"realname": "包勇明",
+						"realnamePinyin": ""
+					},
+					"group": {
+						"id": 18210,
+						"name": "默认分组",
+						"namePinyin": "mo'ren'fen'zu",
+						"description": "",
+						"respoId": 11567,
+						"projectId": 16798,
+						"creatorId": 11567
+					},
+					"id": 13390,
+					"tag": "",
+					"tagPinyin": "",
+					"path": "/index",
+					"name": "首页模板",
+					"namePinyin": "shou'ye'mo'ban",
+					"status": "已完成",
+					"description": "首页",
+					"respoId": 11567,
+					"groupId": 18210,
+					"projectId": 16798,
+					"progroupId": 15168,
+					"creatorId": 11567,
+					"createTime": 1497190894431
+				}
+			]
+		}
+	],
+	"project": {
+		"creator": {
+			"id": 11567,
+			"portrait": "",
+			"realname": "包勇明",
+			"realnamePinyin": ""
+		},
+		"id": 16798,
+		"type": 0,
+		"logo": "",
+		"name": "StickyNotes",
+		"namePinyin": "StickyNotes",
+		"description": "",
+		"qbsId": 0,
+		"progroupId": 15168,
+		"creatorId": 11567,
+		"createTime": 1497190768313,
+		"toolKey": "a81c2289d5466c3cd9386e84a8c479f2",
+		"toolSpecWeb": 10692,
+		"toolSpecAos": 0,
+		"toolSpecIos": 0,
+		"toolSpecTest": 0,
+		"hostId": 0,
+		"authType": 0,
+		"resParamRequired": 0,
+		"members": {
+			"observers": [],
+			"developers": [],
+			"testers": [],
+			"admins": [],
+			"owner": [
+				{
+					"createTime": 1497190743756,
+					"role": 10,
+					"id": 11567,
+					"username": "huntbao@126.com",
+					"portrait": "",
+					"realname": "包勇明",
+					"realnamePinyin": ""
+				}
+			]
+		}
+	},
+	"specs": [
+		{
+			"docs": [
+				{
+					"id": 27782,
+					"specId": 10692,
+					"parent": 0,
+					"type": 0,
+					"name": "public",
+					"description": "",
+					"mime": "text/plain",
+					"content": "",
+					"dataSource": 0,
+					"children": [
+						{
+							"id": 27845,
+							"specId": 10692,
+							"parent": 27782,
+							"type": 1,
+							"name": "index.js",
+							"description": "",
+							"mime": "text/javascript",
+							"content": "",
+							"dataSource": 0,
+							"children": []
+						},
+						{
+							"id": 27846,
+							"specId": 10692,
+							"parent": 27782,
+							"type": 1,
+							"name": "index.css",
+							"description": "",
+							"mime": "text/plain",
+							"content": "",
+							"dataSource": 0,
+							"children": []
+						},
+						{
+							"id": 27847,
+							"specId": 10692,
+							"parent": 27782,
+							"type": 0,
+							"name": "html",
+							"description": "",
+							"mime": "text/plain",
+							"content": "",
+							"dataSource": 0,
+							"children": [
+								{
+									"id": 27784,
+									"specId": 10692,
+									"parent": 27847,
+									"type": 1,
+									"name": "{{template.filename}}.{{spec.viewExt}}",
+									"description": "",
+									"mime": "text/html",
+									"content": "<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"UTF-8\">\n  <title>StickyNotes</title>\n  <link href=\"../index.css\" rel=\"stylesheet\">\n</head>\n<body>\n<script src=\"../index.js\"></script>\n</body>\n</html>",
+									"dataSource": 3,
+									"children": []
+								}
+							]
+						}
+					]
+				}
+			],
+			"spec": {
+				"id": 10692,
+				"type": 0,
+				"isShare": 0,
+				"isLock": 0,
+				"isSystem": 0,
+				"name": "StickyNotes",
+				"namePinyin": "StickyNotes",
+				"language": 12,
+				"description": "简易便笺系统",
+				"document": null,
+				"creatorId": 11567,
+				"createTime": 1497190975729,
+				"argsConfig": 0,
+				"helpersConfig": 0,
+				"toolKey": "d19884912429b5385c4abd6573f105a8",
+				"engine": 21,
+				"webRoot": 27782,
+				"viewRoot": 27847,
+				"viewExtension": "html",
+				"mockApiRoot": 0,
+				"mockViewRoot": 0,
+				"jarRoot": 0,
+				"attributes": {
+					"specId": 10692,
+					"viewRoot": 27847,
+					"webRoot": 27782,
+					"mockApiRoot": 0,
+					"mockViewRoot": 0,
+					"jarRoot": 0,
+					"engine": 21,
+					"viewExtension": "html"
+				}
+			},
+			"varmaps": [],
+			"jarConfig": []
+		}
+	]
+}
